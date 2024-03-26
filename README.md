@@ -1,8 +1,7 @@
-<H3>Name</H3>: Dhivyapriya.R
-<H3>Register no.</H3>: 212222230032
-<H3>Date</H3>:
-<H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
+# Name:Dhivyapriya.R
+# Register no.: 212222230032
+# Date:
+# Experiment No. 2 Implementation of Perceptron for Binary Classification
 
 ## AIM:
 
